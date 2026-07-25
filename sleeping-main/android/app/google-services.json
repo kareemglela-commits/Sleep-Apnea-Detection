@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "265554975833",
+    "firebase_url": "https://mobile-kareem-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobile-kareem",
+    "storage_bucket": "mobile-kareem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265554975833:android:03520c4dec4e05aa3c2548",
+        "android_client_info": {
+          "package_name": "com.example.sleeping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfdqJk9JzcJxdo3XKnMtlUA0v5-D5OOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
